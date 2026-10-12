@@ -1,3 +1,7 @@
+#LIVE LINK OF DEPLOYMENT
+https://disastertweetclassifier-5va0.onrender.com
+
+
 # Disaster Tweet Classifier
 
 A simple NLP and Machine Learning project that classifies a tweet as **Disaster-related** or **Non-disaster** using TF-IDF and Logistic Regression.
